@@ -1,5 +1,5 @@
 <h1>Hi, I'm Scott, an <a href="https://linkedin.com/in/
-scott-franklin-63b479219
+swrf
 ">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -14,9 +14,9 @@ scott-franklin-63b479219
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="scott-franklin-63b479219 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
 [linkedin]: https://linkedin.com/in/
-scott-franklin-63b479219
+swrf
